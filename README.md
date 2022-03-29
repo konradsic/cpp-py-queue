@@ -1,2 +1,2 @@
-# cpp-queue
-CPP STL Queue written manually with all functions
+# CPP Queue
+CPP STL Queue wrote manually with all functions
