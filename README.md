@@ -1,3 +1,3 @@
 # CPP and PY Queue
-CPP STL Queue wrote manually with all functions
-Python collections.deque
+- CPP STL Queue wrote manually with all functions
+- Python collections.deque
